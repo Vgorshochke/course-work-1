@@ -1,0 +1,97 @@
+body {
+    background-color: #282828;
+    color: #F6EBFF;
+    font-size: 200%;
+    font-family: 'Roboto Slab', serif;}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #F0E5FF;}
+
+p {
+    text-align: center;
+    margin: 3% 7%;}
+
+a {
+    color: #F6EBFF;
+    text-decoration: none;}
+
+a:hover {
+    text-decoration: underline;}
+
+li {
+    display: block;
+    text-align: center;}
+
+.txt {
+    font-size: 67%;}
+
+figure.bio {
+    text-align: center;
+    font-size: 70%;
+    font-style: italic;
+    margin: 3% 0%;}
+
+p.bio {
+    font-size: 90%;
+    text-align: justify;
+    margin: 3% 15%;}
+
+td.case {
+    width: 95px;}
+
+img.case_img {
+    width: 100%;}
+
+table.form {
+    margin: auto;
+    padding: 15px 5px;
+    border: 1px solid #F6EBFF;
+    border-spacing: 40px 2px;
+    border-radius: 10px;}
+
+label {
+    font-size: 70%;
+    display: inline-block;
+    width: 460px;}
+
+input, textarea {
+    font: 65% 'Roboto Slab', serif;
+    width: 350px;
+    height: 32px;}
+
+textarea {
+    height: 150px;}
+
+button {
+    font: 65% 'Roboto Slab', serif;
+    width: 600px;
+    height: 40px;}
+
+p.form {
+    font-size: 60%;
+    margin: 1% 0% 2% 0%;}
+
+h1.form {
+    font-size: 110%;
+    margin: 3% 0% 1% 0%;}
+
+figure.sps {
+    margin: 16% 0%}
+
+figure.price {
+    margin: 4% 0% 1% 0%}
+
+table.price {
+    margin: auto;
+    border-collapse: collapse;}
+
+tr.price td {
+    font-size: 90%;
+    border-bottom: 1pt solid #F6EBFF;
+    border-top: 1pt solid #F6EBFF;
+    height: 90px;}
+
+td.cost {
+    width: 40%;
+    text-align: right;}
